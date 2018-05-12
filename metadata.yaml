@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6732
     wikipedia: http://en.wikipedia.org/wiki/Howard_C._Hillegas
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16462#With-the-Boer-Forces
 gutenberg_bookshelf: Boer War
 gutenberg_issued: '2005-08-07'
 gutenberg_type: Text
